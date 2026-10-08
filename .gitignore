@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Datasets, caches and checkpoints produced by the notebooks
+kth_dataset/
+kth_synthetic/
+kth_videos/
+cached_features/
+data/*
+!data/tesla_stock_prices.csv.zip
+*.pt
+*.pth
+*.pkl
+*.ckpt

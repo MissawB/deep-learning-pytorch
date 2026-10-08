@@ -1,0 +1,29 @@
+# Core
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+Pillow
+requests
+jupyterlab
+
+# Computer vision / video
+opencv-python
+
+# Graph neural networks
+torch-geometric
+networkx
+mediapipe==0.10.14
+
+# Hugging Face (text-to-image, CLIP)
+transformers
+datasets
+diffusers
+accelerate
+
+# Time series
+yfinance
